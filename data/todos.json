@@ -1,0 +1,8 @@
+[
+  { "id": 1, "text": "Next.js 공부하기", "color": "red", "checked": false },
+  { "id": 2, "text": "커서 좌표 찾는법 정리", "color": "orange", "checked": false },
+  { "id": 3, "text": "타입스크립트 모듈 선언 정리", "color": "yellow", "checked": true },
+  { "id": 4, "text": "바벨 정리", "color": "green", "checked": false },
+  { "id": 5, "text": "리덕스 사가 정리", "color": "blue", "checked": true },
+  { "id": 6, "text": "분리수거 하기", "color": "navy", "checked": false }
+]
